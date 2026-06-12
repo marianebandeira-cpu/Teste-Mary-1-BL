@@ -1,11 +1,21 @@
 body{
-    background-color: gold;
+    background-color: plum;
 }
 header{
-    background-color: blue;
+    background-color: purple;
     color: rgb(0, 0, 0);
     text-align: center;
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
 }
+main{
+    display: flex;
+
+}
+article{
+background-color: rgb(255, 255, 255);
+color: black;
+text-align: justify;
+
+ }
